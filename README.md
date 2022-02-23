@@ -3,7 +3,7 @@
 ### by: Tony Garcia, Elza Hayyat, Sammy Mohn, Kim Trejo
 
 **Datasets Used:**
-1. Kaggle: Solar Power by Country
+1. Kaggle: Solar Power by Country (https://www.kaggle.com/prasertk/solar-power-by-country)
 2. xxx
 
 
