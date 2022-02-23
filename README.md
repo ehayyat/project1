@@ -4,7 +4,7 @@
 
 **Datasets Used:**
 1. Kaggle: Solar Power by Country (https://www.kaggle.com/prasertk/solar-power-by-country)
-2. xxx
+2. The World Bank: GDP by Country (https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD)
 
 
 
